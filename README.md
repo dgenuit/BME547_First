@@ -6,11 +6,11 @@ Author: Drew Genuit
 
 Fall 2021
 
-#Specifications
+# Specifications
 
-*Data will include
-*Patient Name
+* Data will include
+* Patient Name
   + First Name
   + Last Name
-*Date of Birth
-*Blood Type
+* Date of Birth
+* Blood Type
