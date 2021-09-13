@@ -44,7 +44,7 @@ def dosage(weight, diagnosis):
     print("  the correct dosage is {:.1f} mg the first day"
           .format(dosage_mg_first_day))
     
-
+    
 
 if __name__ == '__main__':
     dose_amount()
